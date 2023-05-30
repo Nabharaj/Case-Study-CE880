@@ -1,2 +1,2 @@
-# Case-Study-CE880
+# Bank Note Authintication
 Case Study
